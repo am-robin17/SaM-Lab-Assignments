@@ -20,7 +20,11 @@ This lab will cover graphical representation of mathematical functions using Pyt
 
 
 <b>Tools & Libraries:</b>
+
 NumPy: For numerical computations and simulations.
+
 Pandas: For data manipulation and analysis.
+
 Matplotlib: For creating static, interactive, and animated visualizations.
+
 Seaborn: For producing aesthetically pleasing statistical graphics.
